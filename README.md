@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# DASHBOARD with admin
+This project is replication of a tutorial from EdRoh youtube channel
 
 ## Available Scripts
 
